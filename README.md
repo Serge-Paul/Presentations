@@ -1,6 +1,6 @@
 Presentations:
 
-Following are a few presentations. You can download them from the “Latest Thinking” section from my blog: asiliconvalleyinsider.blog.
+Following are a few presentations. You can download them from the “Latest Thinking” section from my blog: asiliconvalleyinsider.com.
 
 Cross Platform Mobile Development Tools
 
