@@ -2,6 +2,12 @@ Presentations:
 
 Following are a few presentations. You can download them from the “Latest Thinking” section from my blog: asiliconvalleyinsider.com.
 
+
+Machine Learning for the Internet of Things (IoT)
+
+The Internet of Things (IoT) is all about machine learning at scale. The value of an IoT solution is in its machine learning applications. Those applications are what will motivate the IoT users to be more engaged with their devices. And, the more devices are connected to the IoT platform, the more the machine learning applications will provide value to the users of the IoT devices.
+
+
 Cross Platform Mobile Development Tools
 
 Every mobile platform has its own development environment: BlackBerry (Java and C/C++), iOS (Objective C), and Android (Dalvik Java). Fortunately for developers, there are a few alternatives. Some tools can wrap existing HTML into native libraries such as PhoneGap or even generate native code from existing HTML such as Appcelerator.
