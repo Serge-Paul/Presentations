@@ -2,6 +2,15 @@ Presentations:
 
 Following are a few presentations. You can download them from the “Latest Thinking” section from my blog: asiliconvalleyinsider.com.
 
+Exploring Causal Inference for Business Decisions
+
+While A/B testing aims to establish any difference between two randomized groups “A” and “B”, and the causal effect of changing “x” on the outcome “y” on group “A” versus group “B”, causal inference techniques attempt to discover and mitigate the cofounding factors “c” (called also omitted variable bias in statistics) that affect the input of interests “x” with the outcome of interest “y”.
+Knowing the relationships between “x” and “y” enables to generate actionable insights in order to make the right course of actions to move from "x" to "y".
+
+How to Learn Faster? Multi-Task and Meta-Learning to the Rescue
+
+One of the key goals of many data scientist teams is to develop models faster for new use cases and new applications. To that end, “transfer learning” which aims to train on one task, and to transfer that learning to a new task has been widely used in particular, in computer vision, and language models.
+However, two new techniques have emerged recently: “multi-task learning” which aims to train a system on many tasks, and transfer that learning to the system for a new task, and “meta-learning” which empowers a system to learn to learn from many tasks, and transfer that learning to the system for similar tasks.
 
 Machine Learning for the Internet of Things (IoT)
 
